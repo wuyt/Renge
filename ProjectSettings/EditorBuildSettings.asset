@@ -21,6 +21,6 @@ EditorBuildSettings:
     path: Assets/Scenes/SceneSwitching/Third.unity
     guid: c03116eeba0319745ae5c78e9d2318a1
   - enabled: 1
-    path: Assets/Scenes/DontDestroy.unity
+    path: Assets/Scenes/Scripts/DontDestroy.unity
     guid: 9c17efaea52633f48833a1621b8467ff
   m_configObjects: {}
